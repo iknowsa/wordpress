@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; digital news paper</title>
+	<atom:link href="https://iknowsa.github.io/wordpress/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://iknowsa.github.io/wordpress</link>
+	<description>top news</description>
+	<lastBuildDate>Mon, 07 Oct 2024 04:03:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://iknowsa.github.io/wordpress/wp-content/uploads/2024/10/diginews_fav.png</url>
+	<title>Uncategorized &#8211; digital news paper</title>
+	<link>https://iknowsa.github.io/wordpress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>21 Trending Fashion to Follow in 2024</title>
+		<link>https://iknowsa.github.io/wordpress/21-trending-fashion-to-follow-in-2024/</link>
+					<comments>https://iknowsa.github.io/wordpress/21-trending-fashion-to-follow-in-2024/#respond</comments>
+		
+		<dc:creator><![CDATA[saeed]]></dc:creator>
+		<pubDate>Mon, 07 Oct 2024 03:32:46 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://iknowsa.github.io/wordpress/?p=64</guid>
+
+					<description><![CDATA[Fashion in 2024 is set to blend innovation with nostalgia, offering a range of trends that cater to diverse styles and tastes. Expect to see bold, vibrant colors making a comeback, alongside futuristic metallics and iridescent fabrics. Sustainability remains a key focus, with eco-friendly materials and upcycled designs dominating runways. Oversized silhouettes, especially in outerwear,...]]></description>
+										<content:encoded><![CDATA[
+<p>Fashion in 2024 is set to blend innovation with nostalgia, offering a range of trends that cater to diverse styles and tastes. Expect to see bold, vibrant colors making a comeback, alongside futuristic metallics and iridescent fabrics. Sustainability remains a key focus, with eco-friendly materials and upcycled designs dominating runways. Oversized silhouettes, especially in outerwear, are paired with sleek, minimalist pieces for a balanced look. Gender-fluid fashion continues to gain momentum, with non-binary styles becoming more mainstream. Vintage-inspired clothing, from &#8217;90s grunge to &#8217;70s boho, will also reemerge, mixing with modern accessories like chunky boots and statement jewelry. Athleisure remains a staple, with elevated sportswear transitioning easily from the gym to the streets. From power suits to sheer layers, 2024&#8217;s fashion trends encourage self-expression, making it a year of creativity and bold choices.\</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://iknowsa.github.io/wordpress/21-trending-fashion-to-follow-in-2024/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
